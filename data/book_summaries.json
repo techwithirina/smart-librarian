@@ -1,0 +1,111 @@
+[
+    {
+        "title": "1984",
+        "summary": "A dystopia about surveillance, propaganda and control. Winston Smith seeks truth and freedom under Big Brother.",
+        "themes": [
+            "dystopia",
+            "freedom",
+            "control",
+            "truth"
+        ]
+    },
+    {
+        "title": "The Hobbit",
+        "summary": "Bilbo joins dwarves to reclaim their treasure from Smaug and discovers unexpected courage and friendship.",
+        "themes": [
+            "friendship",
+            "adventure",
+            "heroism",
+            "fantasy"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "summary": "A boy discovers he is a wizard and enters a world of magic, friendship and looming darkness.",
+        "themes": [
+            "friendship",
+            "magic",
+            "coming-of-age",
+            "good-vs-evil"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings",
+        "summary": "A fellowship attempts to destroy a powerful ring while resisting corruption.",
+        "themes": [
+            "friendship",
+            "sacrifice",
+            "power",
+            "adventure",
+            "fantasy"
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "summary": "A child’s-eye view of racism and justice in the American South.",
+        "themes": [
+            "justice",
+            "empathy",
+            "prejudice",
+            "coming-of-age"
+        ]
+    },
+    {
+        "title": "Pride and Prejudice",
+        "summary": "Elizabeth Bennet navigates love, class and first impressions.",
+        "themes": [
+            "romance",
+            "class",
+            "family",
+            "society"
+        ]
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "summary": "Holden Caulfield wrestles with grief, identity and alienation.",
+        "themes": [
+            "alienation",
+            "identity",
+            "coming-of-age"
+        ]
+    },
+    {
+        "title": "The Book Thief",
+        "summary": "A girl in Nazi Germany finds solace in books and human kindness amid war.",
+        "themes": [
+            "war",
+            "friendship",
+            "loss",
+            "courage"
+        ]
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "summary": "A German soldier’s harrowing WWI experience.",
+        "themes": [
+            "war",
+            "trauma",
+            "friendship",
+            "disillusionment"
+        ]
+    },
+    {
+        "title": "The Alchemist",
+        "summary": "A shepherd seeks his Personal Legend across deserts and omens.",
+        "themes": [
+            "destiny",
+            "self-discovery",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Brave New World",
+        "summary": "A technologically engineered society trades freedom for stability and pleasure.",
+        "themes": [
+            "control",
+            "technology",
+            "freedom",
+            "conformity"
+        ]
+    }
+]
