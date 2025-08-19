@@ -57,7 +57,7 @@ data/*.bak
 *.ogg
 *.m4a
 *.flac
-*.png
+#*.png
 *.jpg
 *.jpeg
 
